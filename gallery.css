@@ -1,0 +1,9 @@
+.shan{
+    background-color: lightcoral;
+   display: flex; 
+   justify-content: space-between;
+   padding: 10px;
+}
+.big{
+    background-color: aquamarine;
+}

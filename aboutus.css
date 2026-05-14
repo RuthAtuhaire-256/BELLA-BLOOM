@@ -1,0 +1,13 @@
+.ama{
+    background-color: aquamarine;
+}
+.ama{
+    justify-content: space-between;
+    text-align: center;
+}
+.shan{
+    background-color: lightcoral;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
